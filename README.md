@@ -8,7 +8,7 @@ This Mesosphere DC/OS Lab Workshop will guide you through:
  - DC/OS Cassandra orchestration and operation on DC/OS
  
 
-Please see the [`/labs`](https://github.com/gregpalmr/dcos-workshop-2019-03-19/tree/master/labs) directory for course materials and [`/keys`](https://github.com/gregpalmr/dcos-workshop-2019-03-19/tree/master/labshttps://github.com/gregpalmr/dcos-workshop-2019-03-19/tree/master/keys) for the keys required to access your cluster.
+Please see the [`/labs`](https://github.com/gregpalmr/dcos-workshop-2019-03-19/tree/master/labs) directory for course materials and [`/keys`](https://github.com/gregpalmr/dcos-workshop-2019-03-19/tree/master/keys) for the keys required to access your cluster.
 
 
 
